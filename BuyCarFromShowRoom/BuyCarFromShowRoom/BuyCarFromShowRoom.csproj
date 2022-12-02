@@ -7,4 +7,10 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Forms\" />
+    <Folder Include="Class\" />
+    <Folder Include="Pictures\" />
+  </ItemGroup>
+
 </Project>
